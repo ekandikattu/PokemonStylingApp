@@ -1,14 +1,14 @@
-# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: **Eeshan Kandikattu**
 
-Time spent: **2** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Summary
 
-**FlyingPokemonApp** is an android app that **displays a scrollable list of flying type Pokemon and their various flying type moves**
+**PokemonStylingApp** is an android app that **displays a scrollable list of flying type pokemon**
 
-If I had to describe this project in three (3) emojis, they would be: **🙂😊😆**
+If I had to describe this project in three (3) emojis, they would be: **🤣🙂😆**
 
 ## Application Features
 
@@ -16,15 +16,16 @@ If I had to describe this project in three (3) emojis, they would be: **🙂😊
 
 The following REQUIRED features are completed:
 
-- [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Implement a RecyclerView to display a list of entries from the API
-- [x] Display at least three (3) pieces of data for each RecyclerView item
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
 The following EXTRA features are implemented:
 
@@ -34,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/v3TdNd0.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/4IrmJcs.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
